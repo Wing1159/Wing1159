@@ -4,7 +4,7 @@
 
 #### $$人若只如初见时$$
 
-![Github 提交记录](https://raw.githubusercontent.com/mmdjiji/mmdjiji/output/github-contribution-grid-snake.svg)
+![Github 提交记录](https://raw.githubusercontent.com/Wing1159/Wing1159/output/github-contribution-grid-snake.svg)
 
 **About me:**
 
