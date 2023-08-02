@@ -1,8 +1,5 @@
-### ![Hi there 👋](header.svg#pic_center)
-
----
-
-#### $$人若只如初见时$$
+<h2 align="center"><img src="header.svg" /></h2>
+<h4 align="center">人若只如初见时</h4>
 
 ![Github 提交记录](https://raw.githubusercontent.com/Wing1159/Wing1159/output/github-contribution-grid-snake.svg)
 
