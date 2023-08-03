@@ -5,4 +5,4 @@
 
 **About me:**
 
-![GitHub 统计数据](https://github-readme-stats.vercel.app/api?username=Wing1159&count_private=true&show_icons=true&theme=dracula) [![语言](https://github-readme-stats.vercel.app/api/top-langs/?username=Wing1159&layout=compact&theme=dracula)](https://github.com/Wing1159)
+![GitHub 统计数据](https://github-readme-stats.vercel.app/api?username=Wing1159&count_private=true&show_icons=true&theme=dracula) [![使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=Wing1159&count_private=true&layout=compact&theme=dracula)](https://github.com/Wing1159)
